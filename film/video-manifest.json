@@ -1,0 +1,26 @@
+{
+  "title": "Glitch Hop Basslines",
+  "study": "z4001",
+  "bpm": 140,
+  "source_audio": "preview/glitch-hop-basslines-simple-synth-preview.mp3",
+  "source_audio_sha256": "2dcfe9fc558d9526a01086afd26abadc04fb42c8f2fb28edb68dcfe64d33bd07",
+  "source_midi": "midi/z4001-glitch-hop-basslines-opening/z4001-glitch-hop-basslines-opening-combined.mid",
+  "source_midi_sha256": "56a5e56931e71d87c9e1c8e39d89ad36c4d4be0d277785c6d19a371713a74f4a",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "41994b5c307a634712b6ee6788dfebc602c53ab4e0b96859b59f23948b0a439a",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "76c93920c061e5d8dec9bded6317375bdfe73aef56b13c43a75fb16b26a696d9",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "b65793d1e7c6651575e666d3797a1dc114321c98b35b00aaeaba4978e2536fa8",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

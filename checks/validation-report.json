@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:05.064497+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z4001-glitch-hop-basslines-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "808800bd88cd29235b459279e3fea53bb0056e2796ae3b5447158bba74ca91a6",
+      "errors": []
+    },
+    {
+      "path": "midi/z4001-glitch-hop-basslines-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "dd4f64b89bbb9361ececac4338cb2e7ca4e9e08be715d7ea888e860c53308753",
+      "errors": []
+    },
+    {
+      "path": "midi/z4001-glitch-hop-basslines-opening/drums.mid",
+      "bytes": 2730,
+      "sha256": "d015aeb150abc1d16f26ce7e2087429fc57120a6eb89319a944608799d9b709d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4001-glitch-hop-basslines-opening/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "7917b723f107cb433262436d3556b3dd2ea9f355c4270eb55f7526d54f19a61a",
+      "errors": []
+    },
+    {
+      "path": "midi/z4001-glitch-hop-basslines-opening/sub_bass.mid",
+      "bytes": 798,
+      "sha256": "2719f998134ecc8b5fe0d3a85d13c7ca6eb55f18a81a8b779193137d35f68795",
+      "errors": []
+    },
+    {
+      "path": "midi/z4001-glitch-hop-basslines-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "35f50feaf3cdca5a93195999194a8963c7750988dc3058319ede4759e4115a34",
+      "errors": []
+    },
+    {
+      "path": "midi/z4001-glitch-hop-basslines-opening/z4001-glitch-hop-basslines-opening-combined.mid",
+      "bytes": 5758,
+      "sha256": "56a5e56931e71d87c9e1c8e39d89ad36c4d4be0d277785c6d19a371713a74f4a",
+      "errors": []
+    },
+    {
+      "path": "midi/z4002-glitch-hop-basslines-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "49525f734ca5354a61487d07eb6c3253cdb7b3d00bd17cb00e8527daaa676e2b",
+      "errors": []
+    },
+    {
+      "path": "midi/z4002-glitch-hop-basslines-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "73840af504856533ea5e08b50139320e861438b73d44f6fa8a33c80f6b5aa911",
+      "errors": []
+    },
+    {
+      "path": "midi/z4002-glitch-hop-basslines-variation/drums.mid",
+      "bytes": 2730,
+      "sha256": "d015aeb150abc1d16f26ce7e2087429fc57120a6eb89319a944608799d9b709d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4002-glitch-hop-basslines-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "6ac1149db20d315f239bceffffe2516c9ac6d0faacfa623954100ba3fec420db",
+      "errors": []
+    },
+    {
+      "path": "midi/z4002-glitch-hop-basslines-variation/sub_bass.mid",
+      "bytes": 798,
+      "sha256": "d33e3ce90b119db37b76b08d2806cea21333cbe5ecac59ece2542ea00b0ca5c2",
+      "errors": []
+    },
+    {
+      "path": "midi/z4002-glitch-hop-basslines-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "82edf735f6ccbb4e52843c730f95ac2f3d16155e032f7472d8f903c9fdcefa98",
+      "errors": []
+    },
+    {
+      "path": "midi/z4002-glitch-hop-basslines-variation/z4002-glitch-hop-basslines-variation-combined.mid",
+      "bytes": 5758,
+      "sha256": "eed468fabdc52ec7f4c942c8084ac0f967e28578b7d3c02d6d1bf4ae809d05d0",
+      "errors": []
+    },
+    {
+      "path": "midi/z4003-glitch-hop-basslines-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "6afe3ce3699b4cfc6b10d749debc60db2dc06543b0b85f345888a19c8f8e2ca5",
+      "errors": []
+    },
+    {
+      "path": "midi/z4003-glitch-hop-basslines-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "4f0eb2ef7de1d35f29c3d160c16ce156949562e86f70ee587ca3c1eddf22d513",
+      "errors": []
+    },
+    {
+      "path": "midi/z4003-glitch-hop-basslines-contrast/drums.mid",
+      "bytes": 2730,
+      "sha256": "d015aeb150abc1d16f26ce7e2087429fc57120a6eb89319a944608799d9b709d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4003-glitch-hop-basslines-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "f435d593cf174f831aaecec966a364d07cb5d0be7a8259209fceae38f6e22f03",
+      "errors": []
+    },
+    {
+      "path": "midi/z4003-glitch-hop-basslines-contrast/sub_bass.mid",
+      "bytes": 798,
+      "sha256": "f0fa5dcdd5f2043820fc26cd14da3b0f9dca020932aec69a5277257f1b82e57d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4003-glitch-hop-basslines-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "5e6bf4be6b545c75c391e0ee4bd50d97dbb254dd91b6b9638653708e2596cfaa",
+      "errors": []
+    },
+    {
+      "path": "midi/z4003-glitch-hop-basslines-contrast/z4003-glitch-hop-basslines-contrast-combined.mid",
+      "bytes": 5724,
+      "sha256": "e57d32e6a6386fbd64435ddc12950a8a4fa40061be049ab33a1fa9b791e9b48c",
+      "errors": []
+    },
+    {
+      "path": "midi/z4004-glitch-hop-basslines-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "06bb226db2cc7227ff134d8cae73181fa4f0363002ecc882283f61ff31d23683",
+      "errors": []
+    },
+    {
+      "path": "midi/z4004-glitch-hop-basslines-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "56547c1e7bc68470176aeeaba60b7de7750988be9898b333f11bd6cb5a43783e",
+      "errors": []
+    },
+    {
+      "path": "midi/z4004-glitch-hop-basslines-return/drums.mid",
+      "bytes": 2730,
+      "sha256": "d015aeb150abc1d16f26ce7e2087429fc57120a6eb89319a944608799d9b709d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4004-glitch-hop-basslines-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "7b5b2942fac4f361f7c440a8502ce75639a9d4e1ba2f659bcd1c12e0f9a7a3ac",
+      "errors": []
+    },
+    {
+      "path": "midi/z4004-glitch-hop-basslines-return/sub_bass.mid",
+      "bytes": 798,
+      "sha256": "3bd92561a32118a03b57d32b8d1ad48466fff6e6477b788dc8fe4cf8a6e10d3e",
+      "errors": []
+    },
+    {
+      "path": "midi/z4004-glitch-hop-basslines-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "249d25293f757612677134dd349c1bed7aca5dc951b0196dc549ad72f38087b5",
+      "errors": []
+    },
+    {
+      "path": "midi/z4004-glitch-hop-basslines-return/z4004-glitch-hop-basslines-return-combined.mid",
+      "bytes": 5724,
+      "sha256": "0ae2e30f37c61afac2c6df0c6051b0407e880d531386d972f35475e18c0ce60f",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
