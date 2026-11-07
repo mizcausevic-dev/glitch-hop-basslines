@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/glitch-hop-basslines-midi.zip",
-      "bytes": 31250,
-      "sha256": "131e61f0a5b9d1c78bb7fc090817acb804ede5560e97e69b298e2bf0a8d265f0"
+      "bytes": 32237,
+      "sha256": "e541a3ce45fec5ad6ef94edb5dcefee08c4547dfdf28bc1733a682f75c1c541f"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9924,
-      "sha256": "b31c07760f7a4577bcdf6919fd7bb1c002a0cd0594a8b51fbab169016b43b14d"
+      "bytes": 10114,
+      "sha256": "281d817c8d08c500f7232b79e69a79038634d82061ef5d54ffa98b355f64c288"
     },
     {
       "path": "midi/z4001-glitch-hop-basslines-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "0ae2e30f37c61afac2c6df0c6051b0407e880d531386d972f35475e18c0ce60f"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/glitch-hop-basslines-simple-synth-preview.mp3",
       "bytes": 1330408,
       "sha256": "2dcfe9fc558d9526a01086afd26abadc04fb42c8f2fb28edb68dcfe64d33bd07"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3963,
-      "sha256": "0da8e17d94136d1aed42b50733c580e43ec2e6e28ec058040c30711db60103e7"
+      "bytes": 4078,
+      "sha256": "9ac4bac966b139d94f9b214820ee09963cf183d08e71d20c92483323e2ba2d26"
     },
     {
       "path": "social/instagram/caption.txt",
